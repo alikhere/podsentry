@@ -1,0 +1,6 @@
+podsentry
+*.test
+*.out
+dist/
+.DS_Store
+public/screenshots/*.png
